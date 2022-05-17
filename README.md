@@ -6,12 +6,9 @@
     <img src="https://badges.pufler.dev/repos/jogipanwar?style=flat-square&color=blue&logo=github">
   </a>
 </p>
-
-# Hi Geeks !!! 
+# Hi, There !!! 
 # Welcome to Jogender's Profile.
-
-B.Tech (IIT Kharagpur, 2018) |
-Consutant, Cubastion Consulting Pvt. Ltd. | 
+B.Tech (IIT Kharagpur, 2018) | Cubastion Consulting Pvt. Ltd. | 
 
 
 <!--
