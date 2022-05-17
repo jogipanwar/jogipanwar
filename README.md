@@ -6,7 +6,9 @@
     <img src="https://badges.pufler.dev/repos/jogipanwar?style=flat-square&color=blue&logo=github">
   </a>
 </p>
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jogender Singh
+
+### Hi Geeks !!! 
+### Jogender Singh
 
 
 
