@@ -1,13 +1,14 @@
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jogender Singh
-
-<p align=center>
+<p align=right>
   <a href="https://github.com/jogipanwar">
-    <img src="https://badges.pufler.dev/visits/jogipanwar/jogipanwar?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/jogipanwar/jogipanwar?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://github.com/jogipanwar?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/jogipanwar?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/jogipanwar?style=flat-square&color=blue&logo=github">
   </a>
 </p>
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jogender Singh
+
+
 
 <!--
 **jogipanwar/jogipanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
