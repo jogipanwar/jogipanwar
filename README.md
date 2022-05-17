@@ -7,9 +7,11 @@
   </a>
 </p>
 
-### Hi Geeks !!! 
-### Jogender Singh
+# Hi Geeks !!! 
+# Welcome to Jogender's Profile.
 
+B.Tech (IIT Kharagpur, 2018) |
+Consutant, Cubastion Consulting Pvt. Ltd. | 
 
 
 <!--
