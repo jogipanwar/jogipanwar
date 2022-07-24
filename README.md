@@ -1,6 +1,6 @@
 <p align=right>
   <a href="https://github.com/jogipanwar">
-    <img src="https://badges.pufler.dev/visits/jogipanwar/jogipanwar?style=flat-square&color=blue&logo=github">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jogipanwar.visitor-badge&title=Visits">
   </a>
   <a href="https://github.com/jogipanwar?tab=repositories">
     <img src="https://badges.pufler.dev/repos/jogipanwar?style=flat-square&color=blue&logo=github">
